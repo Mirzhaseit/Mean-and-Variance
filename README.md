@@ -51,9 +51,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ```
 NAMME : MIRZHA FATHIMA
 REF NO: 212224230159
-```
 
-```
+
 import numpy as np
 List=[int(i) for i in input().split()]
 A=len(List); B=max(List)
